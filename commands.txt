@@ -1,0 +1,4 @@
+git clone remote path
+git add -A
+git commit -m "Your Message"
+git push orgin main/master
